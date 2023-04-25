@@ -1,2 +1,4 @@
 # AnalizaBesed
-dpfkdskfdspokfo
+
+
+Malo lepši opis.
