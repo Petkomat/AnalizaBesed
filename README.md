@@ -3,6 +3,8 @@
 
 Malo lepši opis.
 
-# Avtor
+# Avorji
 
-- Bojč
+- Ivan Cankar
+- Janez Vajkard Valvasor
+- France
